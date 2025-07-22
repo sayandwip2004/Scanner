@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scanner All-in-One</string>
+    <string name="welcome_to_all_in_one_scanner">Welcome to All-in-One Scanner</string>
+    <string name="document_scanner">Document scanner</string>
+    <string name="barcode_scanner">Barcode \nscanner</string>
+    <string name="qr_code_nscanner">Qr code \nscanner</string>
+    <string name="payment_scanner">Payment scanner</string>
+</resources>
